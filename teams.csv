@@ -1,0 +1,33 @@
+,1,2,3,4,5
+0,Team,W,L,Pct,GB
+1,Milwaukee Bucks,58,24,.707,-
+2,Boston Celtics,57,25,.695,1.0
+3,Philadelphia 76ers,54,28,.659,4.0
+4,Cleveland Cavaliers,51,31,.622,7.0
+5,New York Knicks,47,35,.573,11.0
+6,Brooklyn Nets,45,37,.549,13.0
+7,Atlanta Hawks,41,41,.500,17.0
+8,Miami Heat,44,38,.537,14.0
+9,Toronto Raptors,41,41,.500,17.0
+10,Chicago Bulls,40,42,.488,18.0
+11,Indiana Pacers,35,47,.427,23.0
+12,Washington Wizards,35,47,.427,23.0
+13,Orlando Magic,34,48,.415,24.0
+14,Charlotte Hornets,27,55,.329,31.0
+15,Detroit Pistons,17,65,.207,41.0
+0,Team,W,L,Pct,GB
+1,Denver Nuggets,53,29,.646,-
+2,Memphis Grizzlies,51,31,.622,2.0
+3,Sacramento Kings,48,34,.585,5.0
+4,Phoenix Suns,45,37,.549,8.0
+5,Los Angeles Clippers,44,38,.537,9.0
+6,Golden State Warriors,44,38,.537,9.0
+7,Los Angeles Lakers,43,39,.524,10.0
+8,Minnesota Timberwolves,42,40,.512,11.0
+9,New Orleans Pelicans,42,40,.512,11.0
+10,Oklahoma City Thunder,40,42,.488,13.0
+11,Dallas Mavericks,38,44,.463,15.0
+12,Utah Jazz,37,45,.451,16.0
+13,Portland Trail Blazers,33,49,.402,20.0
+14,Houston Rockets,22,60,.268,31.0
+15,San Antonio Spurs,22,60,.268,31.0
